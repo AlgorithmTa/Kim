@@ -7,7 +7,7 @@
 
 ### 문제 세부
 <details>
-<summary><h4>무제명(파일명)</h4></summary>
+<summary><h4>문제명(파일명)</h4></summary>
 <h4>풀이</h4>
 
 풀이 내용
